@@ -1,3 +1,24 @@
+## Prerequisite
+
+To run this program, you will need
+
+### App Dependencies
+
+```$xslt
+- Golang 1.16+
+- Go mod enabled
+```
+
+## How to Run
+
+### Setup Config
+
+```
+cp .env.example .env
+```
+
+### Run Application
+
 ```
 make run
 ```
